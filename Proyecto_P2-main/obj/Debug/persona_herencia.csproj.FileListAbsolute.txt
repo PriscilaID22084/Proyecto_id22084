@@ -1,0 +1,10 @@
+C:\Users\Oscar\Desktop\Proyecto_P2-main\obj\Debug\persona_herencia.csproj.AssemblyReference.cache
+C:\Users\Oscar\Desktop\Proyecto_P2-main\obj\Debug\persona_herencia.Form1.resources
+C:\Users\Oscar\Desktop\Proyecto_P2-main\obj\Debug\persona_herencia.csproj.GenerateResource.cache
+C:\Users\Oscar\Desktop\Proyecto_P2-main\bin\Debug\persona_herencia.exe.config
+C:\Users\Oscar\Desktop\Proyecto_P2-main\bin\Debug\persona_herencia.exe
+C:\Users\Oscar\Desktop\Proyecto_P2-main\bin\Debug\persona_herencia.pdb
+C:\Users\Oscar\Desktop\Proyecto_P2-main\obj\Debug\persona_herencia.Properties.Resources.resources
+C:\Users\Oscar\Desktop\Proyecto_P2-main\obj\Debug\persona_herencia.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Desktop\Proyecto_P2-main\obj\Debug\persona_herencia.exe
+C:\Users\Oscar\Desktop\Proyecto_P2-main\obj\Debug\persona_herencia.pdb
